@@ -8,15 +8,15 @@ Version: ttp-1.18.2-forge-1.1
 
 
 - [Default Hotkeys](#default-hotkeys)
-- [1. Movement](#1-movement)
-- [2. Inventory](#2-inventory)
-- [3. Common](#3-common)
-- [4. Map](#4-map)
-- [5. Information](#5-information)
-- [6. Misc](#6-misc)
+  - [1. Movement](#1-movement)
+  - [2. Inventory](#2-inventory)
+  - [3. Common](#3-common)
+  - [4. Map](#4-map)
+  - [5. Information](#5-information)
+  - [6. Misc](#6-misc)
 
 
-# 1. Movement
+## 1. Movement
 
 
 - LC = Sneak
@@ -25,7 +25,7 @@ Version: ttp-1.18.2-forge-1.1
 	> This is the key left of 1.
 
 
-# 2. Inventory
+## 2. Inventory
 
 
 - Tab = Inventory
@@ -57,7 +57,7 @@ Version: ttp-1.18.2-forge-1.1
         > Works best with Sophisticated Backpack Pick Up or Magnet Upgrade.
 
 
-# 3. Common
+## 3. Common
 
 
 - U = Death History
@@ -76,7 +76,7 @@ Version: ttp-1.18.2-forge-1.1
 - / = Command
 
 
-# 4. Map
+## 4. Map
 
 
 - M = Worldmap Toggle
@@ -91,7 +91,7 @@ Version: ttp-1.18.2-forge-1.1
     - \- = Minimap Zoom Out
 
 
-# 5. Information
+## 5. Information
 
 
 - A = JEI Bookmark
@@ -108,7 +108,7 @@ Version: ttp-1.18.2-forge-1.1
   - Num 2 = The One Probe Overlay Liquid
 
 
-# 6. Misc
+## 6. Misc
 
 
 - Mouse4 = Back
